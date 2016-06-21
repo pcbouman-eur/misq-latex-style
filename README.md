@@ -15,7 +15,7 @@ I don't intend to maintain this repository very activitely. Volunteers who would
 like to take over or fork this repository are very welcome, although I will do
 my best to answer any inquiries related to this repository as good as possible.
 
-## Notes
+## Files
 
 The style consists of two files, 'misqdoc.cls' for the LaTeX document class and
 'misq.bst' for a BibTeX bibliography style. A very short example paper is available
@@ -28,5 +28,5 @@ as 'example.tex' which is a minimal working example, as well as a minimal biblio
 ## Use
 
 Have a look at 'example.tex' and go from there. The features of Ryan Scheutzler's
-ICIS template will probably all work, all I did not check this thoroughly. Have a
+ICIS template will probably all work, I did not check this thoroughly. Have a
 look at his repository if you are interested.
