@@ -22,6 +22,8 @@
 \RequirePackage{fancyhdr}
 % Gotta have that double space
 \RequirePackage[doublespacing]{setspace}
+% Adjusting stretch to obtain results similar to MS Word
+\setstretch{2.1}
 
 % Get rid of spacing inside lists
 \RequirePackage{enumitem}
